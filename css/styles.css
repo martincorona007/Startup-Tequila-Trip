@@ -1,0 +1,28 @@
+.s-welcome{
+   background-image: url(../images/p1.jpg); 
+   background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: 50% 50%;
+    background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    -webkit-background-size: cover;
+}
+.s-welcome-overlay {
+   padding-top: 100px;
+   padding-bottom: 100px;
+   background-color: rgba(31, 31, 31, 0.75);
+   
+}
+#quote{
+   font-family: 'Sansita Swashed', cursive;
+   color: #f77d0a;
+   text-align: center;
+   font-size: 5em;
+}
+h2{
+   text-align: center;
+   font-family: 'Sansita Swashed', cursive;
+}
+
+
