@@ -23,6 +23,12 @@
 h2{
    text-align: center;
    font-family: 'Sansita Swashed', cursive;
+   padding-top: 20px;
+   padding-bottom: 30px;
+}
+img{
+   height: 400px;
+   width: 600px;
 }
 
 
