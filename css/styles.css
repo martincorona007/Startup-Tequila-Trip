@@ -42,6 +42,7 @@ img{
 .image-ac-1,.image-ac-2,.image-ac-3{
    height: 250px;
    width: 350px;
+   text-align: center;
    background-repeat: no-repeat;
    background-position: 50% 50%;
    background-size: cover;
@@ -63,4 +64,76 @@ h3{
    text-align: center;
    padding-top: 10px;
    padding-bottom: 10px;  
+}
+.image-gc-1,.image-gc-2,.image-gc-3,.image-gc-4,.image-gc-5,.image-gc-6,.image-gc-7,.image-gc-8,.image-gc-9{
+   height: 250px;
+   width: 350px;
+   text-align: center;
+   background-repeat: no-repeat;
+   background-position: 50% 50%;
+   background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   -webkit-background-size: cover;
+   transition: all 1s;
+
+}
+.newline{
+   padding-top: 10px;
+ padding-bottom: 10px;
+}
+.image-gc-1{
+   background-image:url(../images/p11.jpg);
+   
+}
+.image-gc-2{
+   background-image:url(../images/p12.jpg);
+}
+.image-gc-3{
+   background-image:url(../images/p13.jpg);
+}
+.image-gc-4{
+   background-image:url(../images/p14.jpg);
+}
+.image-gc-5{
+   background-image:url(../images/p15.jpg);
+}
+.image-gc-6{
+   background-image:url(../images/p16.jpg);
+}
+.image-gc-7{
+   background-image:url(../images/p17.jpg);
+}
+.image-gc-8{
+   background-image:url(../images/p18.jpg);
+}
+.image-gc-9{
+   background-image:url(../images/p19.jpg);
+}
+.image-gc-1:hover{
+   transform: scale(1.1);
+}
+.image-gc-2:hover{
+   transform: scale(1.1);
+}
+.image-gc-3:hover{
+   transform: scale(1.1);
+}
+.image-gc-4:hover{
+   transform: scale(1.1);
+}
+.image-gc-5:hover{
+   transform: scale(1.1);
+}
+.image-gc-6:hover{
+   transform: scale(1.1);
+}
+.image-gc-7:hover{
+   transform: scale(1.1);
+}
+.image-gc-8:hover{
+   transform: scale(1.1);
+}
+.image-gc-9:hover{
+   transform: scale(1.1);
 }
