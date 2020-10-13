@@ -30,5 +30,37 @@ img{
    height: 400px;
    width: 600px;
 }
-
-
+.image-ac-1{
+   background-image:url(../images/p9.jpg);
+}
+.image-ac-2{
+   background-image:url(../images/p10.jpg);
+}
+.image-ac-3{
+   background-image:url(../images/p8.jpg);
+}
+.image-ac-1,.image-ac-2,.image-ac-3{
+   height: 250px;
+   width: 350px;
+   background-repeat: no-repeat;
+   background-position: 50% 50%;
+   background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   -webkit-background-size: cover;
+   transition: all 1s;
+}
+.image-ac-1:hover{
+   transform: scale(1.1);
+}
+.image-ac-2:hover{
+   transform: scale(1.1);
+}
+.image-ac-3:hover{
+   transform: scale(1.1);
+}
+h3{
+   text-align: center;
+   padding-top: 10px;
+   padding-bottom: 10px;  
+}
