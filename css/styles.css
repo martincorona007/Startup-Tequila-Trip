@@ -137,3 +137,22 @@ h3{
 .image-gc-9:hover{
    transform: scale(1.1);
 }
+#map {
+   height: 400px;  /* The height is 400 pixels */
+   width: 100%;  /* The width is the width of the web page */
+  }
+.image-mc-1{
+   background-image:url(../images/location.png);
+   height: 650px;
+   width: 1850px;
+   text-align: center;
+   background-repeat: no-repeat;
+   background-position: 50% 50%;
+   background-size: cover;
+   -moz-background-size: cover;
+   -o-background-size: cover;
+   -webkit-background-size: cover;
+}
+#copyright{
+   text-align: center;
+}
